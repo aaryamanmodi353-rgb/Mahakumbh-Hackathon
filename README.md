@@ -9,6 +9,8 @@
 
 This platform aggregates simulated real-time data, predictive AI insights, and geospatial mapping to empower government authorities and law enforcement to preemptively manage crowd surges, parking capacity, and river safety.
 
+### 🔗 **Live Demo: [https://mahakumbh-hackathon.onrender.com](https://mahakumbh-hackathon.onrender.com)**
+
 ---
 
 ## ✨ Key Features
@@ -73,18 +75,7 @@ To run this project locally on your machine:
    ```
 
 4. **View the application**
-   Open [http://localhost:3000](http://localhost:3000) in your browser.
-
----
-
-## ☁️ Deployment (Render)
-
-This project is fully configured for a "1-Click" deployment via **Render Blueprint**.
-
-1. Create an account on [Render.com](https://render.com/).
-2. Click **New +** and select **Blueprint**.
-3. Connect this GitHub repository.
-4. Render will automatically read the `render.yaml` file, provision a Node.js 20 environment, build the application, and deploy it securely.
+   Open the application in your browser.
 
 ---
 
