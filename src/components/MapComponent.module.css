@@ -40,3 +40,9 @@
 :global(.leaflet-container a) {
   color: var(--primary);
 }
+
+/* Add to the bottom of the file */
+/* Add to the bottom of the file */
+.darkMapTiles {
+  filter: invert(100%) hue-rotate(180deg) brightness(95%) contrast(90%);
+}
